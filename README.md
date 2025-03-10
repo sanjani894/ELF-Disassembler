@@ -40,7 +40,7 @@ make
 
 ### Project Structure
 
-```
+```python
 disassembler/
 ├── src/                   # Source code files
 │   ├── main.cpp           # Main entry point
@@ -55,4 +55,4 @@ disassembler/
 └── README.md              # Project documentation
 ```
 
-**Last Updated:** 22-02-2025 ⸺ **Last Reviewed:** 24-05-2025
+**Last Updated:** 22-02-2025 ⸺ **Last Reviewed:** 11-03-2025
